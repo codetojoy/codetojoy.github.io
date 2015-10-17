@@ -1,0 +1,8 @@
+
+## What is it?
+A basic website to collect some links.
+
+## Personal Data
+* electric usage: [CSV data file](https://github.com/codetojoy/self/blob/master/personal/electric.csv)
+* electric usage: [graph of CSV](http://cbc.ca)
+
